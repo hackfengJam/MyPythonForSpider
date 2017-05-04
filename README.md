@@ -1,3 +1,6 @@
 # MyPython For Spider
 Implement python spider
-(因为刚学python所以代码不够简洁，请见谅)
+
+
+
+(ps:因为刚学python所以代码不够简洁，请见谅)
